@@ -1,6 +1,6 @@
 # 🏠 House Price Predictor
 
-This project predicts house prices in Hyderabad using machine learning models like KNN, Random Forest, and Gradient Boosting. It involves preprocessing, dimensionality reduction, and an ensemble approach for better accuracy.
+This project predicts house prices using machine learning models like KNN, Random Forest, and Gradient Boosting. It involves preprocessing, dimensionality reduction, and an ensemble approach for better accuracy.
 
 ---
 
